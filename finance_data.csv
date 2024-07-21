@@ -1,0 +1,15 @@
+date,amount,category,description
+01-07-2024,300000.0,Income,salary
+03-07-2024,20000.0,Expense,Groceries
+05-07-2024,15000.0,Expense,Utilities
+07-07-2024,50000.0,Income,Freelance Work
+10-07-2024,10000.0,Expense,Transportation
+12-07-2024,25000.0,Expense,Entertainment
+15-07-2024,100000.0,Income,Investment Returns
+18-07-2024,30000.0,Expense,Medical Bills
+20-07-2024,8000.0,Expense,Internet Bill
+22-07-2024,5000.0,Expense,Mobile Bill
+25-07-2024,12000.0,Expense,Dining Out
+28-07-2024,40000.0,Income,Bonus
+30-07-2024,25000.0,Expense,Shopping
+
